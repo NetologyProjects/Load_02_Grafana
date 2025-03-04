@@ -1,5 +1,12 @@
 [Источник](https://github.com/netology-code/loadqa-homeworks/tree/main/2.Load%20environment)
 
+#### ---Команды docker
+`docker compose up -d` - запуск файла настройки docker-compose.yml из текущей папки\
+`docker compose down` - остановка и удаление контейнеров, запущенных командой указанной выше\
+`docker ps` - состояние докера\
+`docker restart telegraf` - перезапуск контейнера telegraf\
+***
+
 # Домашнее задание к лекции 2 «‎Подготовка стенда нагрузочного тестирования»
 
 ### Задание
